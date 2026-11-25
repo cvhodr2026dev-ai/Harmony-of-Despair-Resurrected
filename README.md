@@ -1,6 +1,4 @@
-================================================================================
   HARMONY OF DESPAIR RESURRECTED
-================================================================================
 
   >>> EXTRACT THE ZIP FIRST <<<
   Right-click the zip > "Extract All...", then open the extracted
