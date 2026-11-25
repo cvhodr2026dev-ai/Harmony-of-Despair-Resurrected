@@ -1,6 +1,6 @@
   HARMONY OF DESPAIR RESURRECTED
 
-  >>> EXTRACT THE ZIP FIRST <<<
+  > EXTRACT THE ZIP FIRST <
   Right-click the zip > "Extract All...", then open the extracted
   "Harmony of Despair Resurrected" folder and run hod.exe from there.
   Do not run hod.exe from inside the zip window: Windows would run it from a
