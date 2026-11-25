@@ -166,6 +166,8 @@ in its Properties > Compatibility.
   - Your saves, profiles and settings (Save Data, hod.ini) are never touched.
   - Online play only matches players on the same version, so keep up to date
     to play with others.
+  - Development of the project, and community updates can be found on the discord
+    server: https://discord.gg/aHaaM4dx3w
 
 
 --------------------------------------------------------------------------------
