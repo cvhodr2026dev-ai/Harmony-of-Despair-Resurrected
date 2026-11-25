@@ -167,7 +167,7 @@ in its Properties > Compatibility.
   - Online play only matches players on the same version, so keep up to date
     to play with others.
   - Development of the project, and community updates can be found on the discord
-    server: https://discord.gg/aHaaM4dx3w
+    server:
 
 
 --------------------------------------------------------------------------------
